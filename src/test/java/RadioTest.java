@@ -1,4 +1,5 @@
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 import ru.netology.stats.Radio;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
